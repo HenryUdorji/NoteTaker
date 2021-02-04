@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NoteTaker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="storage_permission_text">This app needs access to your storage</string>
+    <string name="delete_all_notes">Delete all notes</string>
+    <string name="delete_all_notes_message">Are you sure you want to delete all notes</string>
+    <string name="no_notes_available_message">No notes available yet, Click on the plus icon to add note</string>
+    <string name="record_audio_permission">This app needs permission to record audio</string>
+    <string name="cancel_recording_message">Want to cancel this recording</string>
+</resources>
